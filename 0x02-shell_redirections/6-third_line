@@ -1,2 +1,2 @@
 #!/bin/bash
-./display_third_line_iacta.sh
+sed -n '3p' "iacta"
