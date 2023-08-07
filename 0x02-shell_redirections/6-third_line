@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt 3 iacta
+ls -lt 3 . iacta
