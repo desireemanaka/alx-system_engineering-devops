@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'set' >> 5-local_variables
+set
