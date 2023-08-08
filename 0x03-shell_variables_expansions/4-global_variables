@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'printrnv' >> 4-global_variables
+echo 'printenv' >> 4-global_variables
